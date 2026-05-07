@@ -1,8 +1,9 @@
 # YouTube Transcript & Summarization App
 
 <p align="center">
-  <img src="assets/1(1).jpeg" width="45%"/>
-  <img src="assets/1(2).jpeg" width="45%"/>
+  <img src="assets/1%20(1).jpeg" width="30%"/>
+  <img src="assets/1%20(2).jpeg" width="30%"/>
+  <img src="assets/1%20(3).jpeg" width="30%"/>
 </p>
 
 ## 📖 Project Storytelling
