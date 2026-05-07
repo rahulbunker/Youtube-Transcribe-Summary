@@ -1,5 +1,10 @@
 # YouTube Transcript & Summarization App
 
+<p align="center">
+  <img src="assets/1(1).jpeg" width="45%"/>
+  <img src="assets/1(2).jpeg" width="45%"/>
+</p>
+
 ## 📖 Project Storytelling
 
 This project is a web application that extracts YouTube video transcripts and generates summaries using Google's Gemini LLM.  
